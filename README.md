@@ -50,8 +50,8 @@ Windows app with rock‑solid tag support.
 
 | Dependency | Purpose | How it's obtained |
 |---|---|---|
-| [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/download) (Windows) | Running the source code or the non-standalone .exe | Manual install |
-| [.NET 8 SDK](https://dotnet.microsoft.com/download) (Windows) | Compiler + WinForms runtime | Manual install, see below |
+| [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/8.0/runtime) (Windows) | Running the source code or the non-standalone .exe | Manual install |
+| [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) (Windows) | Compiler + WinForms runtime | Manual install, see below |
 | [TagLibSharp](https://www.nuget.org/packages/TagLibSharp) 2.3.0 | Reads/writes audio tags | Restored automatically from NuGet via the `.csproj` |
 | Visual Studio 2022 (optional) | IDE with a debugger/designer | Manual install, see below |
 
