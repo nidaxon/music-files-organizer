@@ -138,10 +138,6 @@ Either command outputs a single `MusicFilesOrganizer.exe` under
 
 ## Notes / things you can tweak
 
-- THIS PROGRAM WORKS BEST WITH MUSIC FILES WITH TAGS!!!
-  (Genre, Artist/Album Artist, Year, Album, Track No., Title, etc.)
-  Using this program to organize untagged music files hasn't been tested yet
-  and may produce broken/unexpected result.
 - Default folder structure is `Artist \ Album`; default file naming is
   `Track Number - Title`. Both are just starting points set in
   `MainForm.PopulateDefaults()` — change them there if you want different
